@@ -28,11 +28,14 @@
 - `/end` - stop music play
 - `/join` - invite assistant to your chat
 - `/leave` - remove assistant from your chat
-- `/admincache` - Refresh admin list
-
+- `/admincache` - Refresh adm
 
 ### Deploy To Heroku</h4>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AK-CRAZY-TECH/Avengers-MusicBot)
 
-[repl](https://repl.it/@SpEcHiDe/GenerateStringSession)
+### Generate String Session</h4>
+
+Get STRING_NAME from here:
+
+[![String-Session](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@AKCrazyCrazy/Avengers-Music)
