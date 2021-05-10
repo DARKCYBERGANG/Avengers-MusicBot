@@ -36,6 +36,4 @@
 
 ### Generate String Session</h4>
 
-Get STRING_NAME from here:
-
 [![String-Session](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@AKCrazyCrazy/Avengers-Music)
