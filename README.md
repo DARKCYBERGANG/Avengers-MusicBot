@@ -3,7 +3,7 @@
 ### A bot that can play music on telegram group's voice call
 # Available on telegram as @Avengers_HelperBot
 <p align="center">
-  <img src="">
+  <img src="https://telegra.ph/file/5a64afdd0e5db6a3c1e6b.jpg">
 </p>
 
 ### Commands 🛠
